@@ -2909,7 +2909,7 @@
       </g>
     </g>
     <rect
-       style="fill:#2F343F;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="innerborder-top"
        width="17"
        height="1"
@@ -2917,7 +2917,7 @@
        y="50"
        transform="translate(0,752.36218)" />
     <rect
-       style="fill:#2F343F;fill-opacity:1;stroke:none"
+       style="fill:#5294e2;fill-opacity:1;stroke:none"
        id="innerborder-topleft"
        width="1"
        height="1"
@@ -2925,7 +2925,7 @@
        y="50"
        transform="translate(0,752.36218)" />
     <rect
-       style="fill:#2F343F;fill-opacity:1;stroke:none"
+       style="fill:#5294e2;fill-opacity:1;stroke:none"
        id="innerborder-topright"
        width="1"
        height="1"
@@ -2933,15 +2933,15 @@
        y="50"
        transform="translate(0,752.36218)" />
     <rect
-       style="fill:#2F343F;fill-opacity:1;stroke:none"
+       style="fill:#5294e2;fill-opacity:1;stroke:none"
        id="innerborder-right"
-       width="1"
+       width="3"
        height="11"
        x="322"
        y="51"
        transform="translate(0,752.36218)" />
     <rect
-       style="fill:#2F343F;fill-opacity:1;stroke:none"
+       style="fill:#5294e2;fill-opacity:1;stroke:none"
        id="innerborder-bottomright"
        width="1"
        height="1"
@@ -2949,15 +2949,15 @@
        y="62"
        transform="translate(0,752.36218)" />
     <rect
-       style="fill:#2F343F;fill-opacity:1;stroke:none"
+       style="fill:#5294e2;fill-opacity:1;stroke:none"
        id="innerborder-bottom"
        width="17"
-       height="1"
+       height="3"
        x="305"
        y="62"
        transform="translate(0,752.36218)" />
     <rect
-       style="fill:#2F343F;fill-opacity:1;stroke:none"
+       style="fill:#5294e2;fill-opacity:1;stroke:none"
        id="innerborder-bottomleft"
        width="1"
        height="1"
@@ -2965,9 +2965,9 @@
        y="62"
        transform="translate(0,752.36218)" />
     <rect
-       style="fill:#2F343F;fill-opacity:1;stroke:none"
+       style="fill:#5294e2;fill-opacity:1;stroke:none"
        id="innerborder-left"
-       width="1"
+       width="3"
        height="11"
        x="304"
        y="51"
