@@ -2634,6 +2634,24 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
+       id="decoration-maximized-center"
+       transform="translate(-129.00506,559.9551)">
+      <path
+         id="path11020"
+         d="m 167.00506,286.40708 0,157 226,0 0,-157 -226,0 z"
+         style="fill:#5294e2;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="decoration-maximized-inactive-center"
+       transform="translate(-129.00506,559.9551)">
+      <path
+         id="path11021"
+         d="m 167.00506,286.40708 0,157 226,0 0,-157 -226,0 z"
+         style="fill:#2F343F;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
        id="decoration-right"
        transform="translate(-129.00506,560.3926)">
       <g
